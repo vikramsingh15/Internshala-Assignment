@@ -33,7 +33,7 @@ J.S
 
 Bootstrap
 
-## Backend technolgies
+## Backend technologies
 
 node.js
 
