@@ -46,11 +46,6 @@ email :  vikramsingh15j@gmail.com
 
 pwd:  1234
 
-
-email :  vineet@gmail.com
-
-pwd :  1234
-
 ## sample user credentials :
 email :  shashi@gmail.com
 
