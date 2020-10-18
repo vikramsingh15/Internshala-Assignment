@@ -1,8 +1,10 @@
 
 ## Internshala-assignment (Restaurant)
 
-url of assignment(https://guarded-plains-68255.herokuapp.com/)
+Hosted url of assignment(https://guarded-plains-68255.herokuapp.com/)
 
+
+Github Link of Assignment (https://github.com/vikramsingh15/Internshala-Assignment)
 
 
 ## Install server dependencies (Node.JS/express.JS)
