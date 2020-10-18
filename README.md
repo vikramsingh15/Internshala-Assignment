@@ -3,7 +3,10 @@
 
 url of assignment(https://guarded-plains-68255.herokuapp.com/)
 
+
+
 ## Install server dependencies (Node.JS/express.JS)
+install node.js in your system
 
 npm install
 
@@ -50,3 +53,7 @@ pwd:  1234
 email :  shashi@gmail.com
 
 pwd :  1234
+
+
+## Additional info
+I have used github to upload code because size od npm modules is too large that's why i wanted to ignore node module folder
