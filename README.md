@@ -1,7 +1,7 @@
 
 ## Internshala-assignment (Restaurant)
 
-url of assignment(https://radiant-depths-81234.herokuapp.com/)
+url of assignment(https://guarded-plains-68255.herokuapp.com/)
 
 ## Install server dependencies (Node.JS/express.JS)
 
